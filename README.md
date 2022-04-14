@@ -19,3 +19,5 @@ Kika Cortes
 Adriana Oviedo
 ## Visualizaciones
 ![](https://github.com/aleyire/Entendiendo-como-se-comportan-nuestros-clientes/blob/main/img/preview_1.png)
+![](https://github.com/aleyire/Entendiendo-como-se-comportan-nuestros-clientes/blob/main/img/preview_2.png)
+![](https://github.com/aleyire/Entendiendo-como-se-comportan-nuestros-clientes/blob/main/img/preview_2.png)
