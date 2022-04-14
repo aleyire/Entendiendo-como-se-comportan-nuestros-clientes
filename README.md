@@ -18,3 +18,4 @@ Alejandra Barria
 Kika Cortes
 Adriana Oviedo
 ## Visualizaciones
+![](https://github.com/aleyire/Entendiendo-como-se-comportan-nuestros-clientes/blob/main/img/preview_1.png)
