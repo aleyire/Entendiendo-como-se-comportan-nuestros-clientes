@@ -17,4 +17,4 @@ Operaciones de unión entre Tablas.
 Alejandra Barria
 Kika Cortes
 Adriana Oviedo
-## Visualización
+## Visualizaciones
